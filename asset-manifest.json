@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/reactrobotfriends/static/css/main.fb35868f.chunk.css",
-    "main.js": "/reactrobotfriends/static/js/main.cecd8f27.chunk.js",
-    "main.js.map": "/reactrobotfriends/static/js/main.cecd8f27.chunk.js.map",
-    "runtime~main.js": "/reactrobotfriends/static/js/runtime~main.efe8a3b2.js",
-    "runtime~main.js.map": "/reactrobotfriends/static/js/runtime~main.efe8a3b2.js.map",
-    "static/css/2.bff19397.chunk.css": "/reactrobotfriends/static/css/2.bff19397.chunk.css",
-    "static/js/2.835da2ef.chunk.js": "/reactrobotfriends/static/js/2.835da2ef.chunk.js",
-    "static/js/2.835da2ef.chunk.js.map": "/reactrobotfriends/static/js/2.835da2ef.chunk.js.map",
-    "index.html": "/reactrobotfriends/index.html",
-    "precache-manifest.06994c4d8d49c28501bd8eb35844eda0.js": "/reactrobotfriends/precache-manifest.06994c4d8d49c28501bd8eb35844eda0.js",
-    "service-worker.js": "/reactrobotfriends/service-worker.js",
-    "static/css/2.bff19397.chunk.css.map": "/reactrobotfriends/static/css/2.bff19397.chunk.css.map",
-    "static/css/main.fb35868f.chunk.css.map": "/reactrobotfriends/static/css/main.fb35868f.chunk.css.map"
+    "main.css": "/ReactRobotFriends/static/css/main.fb35868f.chunk.css",
+    "main.js": "/ReactRobotFriends/static/js/main.198eaeee.chunk.js",
+    "main.js.map": "/ReactRobotFriends/static/js/main.198eaeee.chunk.js.map",
+    "runtime~main.js": "/ReactRobotFriends/static/js/runtime~main.e374592b.js",
+    "runtime~main.js.map": "/ReactRobotFriends/static/js/runtime~main.e374592b.js.map",
+    "static/css/2.bff19397.chunk.css": "/ReactRobotFriends/static/css/2.bff19397.chunk.css",
+    "static/js/2.835da2ef.chunk.js": "/ReactRobotFriends/static/js/2.835da2ef.chunk.js",
+    "static/js/2.835da2ef.chunk.js.map": "/ReactRobotFriends/static/js/2.835da2ef.chunk.js.map",
+    "index.html": "/ReactRobotFriends/index.html",
+    "precache-manifest.77232b1a2a01f702c5fbf36881bc063c.js": "/ReactRobotFriends/precache-manifest.77232b1a2a01f702c5fbf36881bc063c.js",
+    "service-worker.js": "/ReactRobotFriends/service-worker.js",
+    "static/css/2.bff19397.chunk.css.map": "/ReactRobotFriends/static/css/2.bff19397.chunk.css.map",
+    "static/css/main.fb35868f.chunk.css.map": "/ReactRobotFriends/static/css/main.fb35868f.chunk.css.map"
   }
 }
